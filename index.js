@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["MADE BY ZYO 🐐","JUJIXU KAISEN ON TOP 🔥"];
+const statusMessages = ["MADE BY ZYO 🐐","I ALONE AM ABLE OF EVERYTHING 🔥"];
 
 
 let currentIndex = 0;
